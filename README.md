@@ -1,7 +1,5 @@
 <h1 align="center">ꪶQUEEN-Xꫂ<br></h1>
-<p align="center">
-<img src="https://pps.whatsapp.net/v/t61.24694-24/321181181_168858575856725_862666054410577068_n.jpg?ccb=11-4&oh=01_AdT066V_4JbuGq_E5Pdrf03hnVMDxto71BqS_aThh9WLGw&oe=63E1CB9F" alt="animated" />
-</p>
+<p align="center"><img src="https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg" alt="animated" /></p>
 
 
 # Setup For Deployment 👇
